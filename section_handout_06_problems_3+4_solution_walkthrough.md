@@ -419,4 +419,5 @@ I hope these problems have helped you see how inheritance is super cool, and how
 Let me know if anything here was not explained clearly enough, and I'd be happy to fix things up.
 
 Good luck, and have fun!
+
 Michael
